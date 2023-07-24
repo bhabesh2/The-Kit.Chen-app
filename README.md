@@ -35,7 +35,9 @@ About Page: Learn more about Kit.Chen, its visionary developer, and the app's ex
 React: Front-end framework for building user interfaces.
 Redux: State management library for managing application state.
 Tailwind CSS: Utility-first CSS framework for responsive and visually stunning layouts.
-Installation and Usage
+``````
+# Installation and Usage
+``````
 Clone the repository to your local machine.
 Install dependencies using npm install.
 Start the development server with npm start.
